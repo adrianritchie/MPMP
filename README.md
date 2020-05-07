@@ -23,3 +23,7 @@ Peg being moved end position: CRGB:Green
 If a move results in a solution (only one peg left), all the neopixels flash CRGB::Green.  If a move results in a deadend (no more moves possible), the board flashes CRGB::Red.
 
 Once a solution or deadend is found, the moves are reversed and alternatives are tried.
+
+Watch it in action (https://youtu.be/of4Qa4DjB7E):
+
+[![Watch the video](https://img.youtube.com/vi/of4Qa4DjB7E/hqdefault.jpg)](https://youtu.be/of4Qa4DjB7E)
